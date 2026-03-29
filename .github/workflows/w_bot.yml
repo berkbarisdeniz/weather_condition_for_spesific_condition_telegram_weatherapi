@@ -2,7 +2,7 @@ name: Hava Durumu Botu
 
 on:
   schedule:
-    - cron: '0 16 * * *'
+    - cron: '58 5 * * *'
   workflow_dispatch:
 
 jobs:
